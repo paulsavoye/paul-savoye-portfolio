@@ -1,0 +1,33 @@
+.competency {
+  display: flex;
+  height: 20px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.progress_bar_black {
+  position: absolute;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #131b23;
+  width: 100%;
+}
+
+.progress_bar_color {
+  position: absolute;
+  height: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+  transition: 1s ease;
+}
+
+.competency_bar {
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.competency_name {
+  width: 200px;
+}

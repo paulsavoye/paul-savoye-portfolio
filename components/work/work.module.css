@@ -1,0 +1,24 @@
+.work_card {
+  height: 200px;
+  width: 200px;
+  background-color: #3c4c5e;
+  border-radius: 6px;
+  margin: 0px 10px 20px 10px;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.work_img {
+  width: 205px;
+}
+
+.work_card_title {
+  padding: 5px 10px 0px 10px;
+  font-size: 16px;
+}
+
+.work_card_description {
+  padding: 5px 10px 0px 10px;
+  font-size: 14px;
+  font-weight: lighter;
+}

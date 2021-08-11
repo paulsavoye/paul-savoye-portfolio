@@ -1,0 +1,11 @@
+.tag_container {
+  display: inline-block;
+}
+
+.tag {
+  font-size: 14px;
+  border-radius: 50px;
+  border: 2px solid;
+  padding: 5px 10px 5px 10px;
+  margin: 10px;
+}

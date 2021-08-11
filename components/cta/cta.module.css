@@ -1,0 +1,17 @@
+.cta_button {
+  display: flex;
+  color: white;
+  width: 160px;
+  height: 35px;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+}
+
+.primary {
+  background-color: #0abde3;
+}
+
+.secondary {
+  border: 2px solid #0abde3;
+}

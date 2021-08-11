@@ -1,0 +1,23 @@
+.title {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.date {
+  text-align: center;
+  font-size: 18px;
+  font-weight: lighter;
+  margin-top: 10px;
+}
+
+.techs {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image_gallery {
+  margin-top: 50px;
+}

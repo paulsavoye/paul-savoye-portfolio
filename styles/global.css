@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  background-color: #222f3e;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+}
+
+:focus {
+  outline: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+h2 {
+  font-size: 24px;
+  padding-top: 30px;
+  font-weight: normal;
+}
+
+p {
+  font-size: 18px;
+  padding-top: 10px;
+  font-weight: lighter;
+}
+
+.project_content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.project_content video {
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  outline: none;
+  object-fit: fill;
+}
+
+.project_content img {
+  object-fit: cover;
+  width: 25%;
+
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.image-gallery {
+  width: 100%;
+}
