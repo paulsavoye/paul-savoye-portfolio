@@ -6,6 +6,8 @@ NextJS portfolio of my personal projects. I used this framework to improve SEO i
 This website is hosted by Vercel.
 www.paul-savoye.fr
 
+![Paul SAVOYE portfolio](http://paul-savoye.fr/images/paul-savoye.png)
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) installed.
