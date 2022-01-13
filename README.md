@@ -4,9 +4,9 @@
 
 NextJS portfolio of my personal projects. I used this framework to improve SEO instead of use React JS.
 This website is hosted by Vercel.
-www.paul-savoye.fr
+https://paul-savoye.fr
 
-![Paul SAVOYE portfolio](http://paul-savoye.fr/images/paul-savoye.png)
+![Paul SAVOYE portfolio](https://paul-savoye.fr/images/paul-savoye.png)
 
 ## Running Locally
 
